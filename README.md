@@ -1,4 +1,4 @@
-# my-tools
+# DNS (Network Skills)
 My Web Development tools
 
 # Developer Tools List
